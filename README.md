@@ -1,31 +1,7 @@
-# Game Time Starter Kit
+# Snake JS, Group Project
+[Turing School Module 4 JavaScript Project](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown) <br>
+* Created the classic game Snake as an application hosted on GitHub Pages. Includes a party mode with a trailing color behind the snake, moving to the song "All Night Long" by Lionel Richie.
+* Handled rendering the canvas, the drawing and growth of the snake and building a scoreboard.
+* Tech stack: JavaScript, HTML5, Node, jQuery, Materialize and Chai.
 
-To install the dependencies:
-
-```
-npm install
-```
-
-To fire up a development server:
-
-```
-npm start
-```
-
-Once the server is running, you can visit:
-
-* `http://localhost:8080/webpack-dev-server/` to run your application.
-* `http://localhost:8080/webpack-dev-server/test.html` to run your test suite in the browser.
-
-To build the static files:
-
-```js
-npm run build
-```
-
-
-To run tests in Node:
-
-```js
-npm test
-```
+![Snake JS Screenshot](/images/screenshot.png)
