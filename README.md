@@ -9,5 +9,5 @@
 ## Setup
 
 * `npm install`
-* `npm start` - hosted at `http://localhost:8080/`
+* `npm start` - hosted at `http://localhost:8080/` by default
 * `npm test` to run test suite
