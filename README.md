@@ -5,3 +5,9 @@
 **Tech stack: JavaScript, HTML5, Node, jQuery, Materialize and Chai**
 
 ![Snake JS GIF](http://g.recordit.co/FoTCWKIO5K.gif)
+
+## Setup
+
+* `npm install`
+* `npm start` - hosted at `http://localhost:8080/`
+* `npm test` to run test suite
