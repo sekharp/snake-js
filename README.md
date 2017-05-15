@@ -4,4 +4,4 @@
 * I handled rendering the canvas, the drawing and growth of the snake and building a scoreboard.<br><br>
 **Tech stack: JavaScript, HTML5, Node, jQuery, Materialize and Chai**
 
-![Snake JS Screenshot](/images/screenshot.png)
+![Snake JS GIF](/images/snake-js.gif)
